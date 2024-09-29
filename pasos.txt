@@ -1,0 +1,499 @@
+    9  cd pwnd/
+   10  code .
+   11  epr
+   12  ssh bandit15@bandit.labs.overthewire.org -p 2220
+   13  ssh bandit16@bandit.labs.overthewire.org -p 2220
+   14  neofetch 
+   15  neofetch 
+   16  mhwd-kernel -l 
+   17  mhwd-kernel -li
+   18   sudo pacman -Syu virtualbox linux65-virtualbox-host-modules 
+   19  mhwd-kernel -li
+   20  sudo pacman Suuyy
+   21  sudo pacman -Suuyy   22  pacman -Qs kernel|grep linux
+   23  mhwd-kernel -li
+   24  pamac search --aur virtualbox-ext-oracle
+   25  mhwd-kernel -li
+   26  manjaro-settings-manager 
+   27  mhwd-kernel -l
+   28  sudo pacman -Syu
+   29  sudo mhwd-kernel -i linux66
+   30  manjaro-settings-manager 
+   31  mhwd-kernel -l
+   32  sudo mhwd-kernel -i linux66-rt
+   33  mhwd-kernel -l
+   34  sudo mhwd-kernel -i linux69-rt
+   35  mhwd-kernel -l
+   36  mhwd-kernel -li
+   37  manjaro-settings-manager 
+   38  grep 'manjaro-settings-manager' /var/log/pacman.log
+   39  manjaro-settings-manager -m msm_kernel
+   40  mhwd-kernel --list
+   41  mhwd-kernel -li
+   42  sudo mhwd-kernel -r linux65
+   43  sudo mhwd-kernel -r linux65
+   44  manjaro-settings-manager -m msm_kernel
+   45  mhwd-kernel -li
+   46   sudo pacman -Syu virtualbox linux66-virtualbox-host-modules 
+   47  history
+   48  code .
+   49  ssh bandit16@bandit.labs.overthewire.org -p 2220
+   50  ssh -i sshkey17.private bandit17@bandit.labs.overthewire.org -p 2220
+   51  ls
+   52  cd pwnd/
+   53  ls
+   54  cd bndt16/
+   55  ls
+   56  ssh -i sshkey17.private bandit17@bandit.labs.overthewire.org -i secret16.file 
+   57  chmod 700 secret16.file
+   58  ssh -i sshkey17.private bandit17@bandit.labs.overthewire.org -i secret16.file 
+   59  ls
+   60  ls -la
+   61  ssh -i sshkey17.private bandit17@bandit.labs.overthewire.org -p 220 -i secret16.file 
+   62  ssh -i sshkey17.private bandit17@bandit.labs.overthewire.org -p 220 -i sshkey17.private 
+   63  ssh -i sshkey17.private bandit17@bandit.labs.overthewire.org -p 220
+   64  ssh bandit16@bandit.labs.overthewire.org -p 2220
+   65  clear
+   66  ssh bandit18@bandit.labs.overthewire.org -p 2220
+   67  ssh bandit17@bandit.labs.overthewire.org -p 2220
+   68  ssh bandit18@bandit.labs.overthewire.org -p 220
+   69  ssh bandit18@bandit.labs.overthewire.org -p 2220
+   70  code .
+   71  code .
+   72  ls
+   73  mv secret16.file sshkey17.private
+   74  ls
+   75  ssh -i sshkey18.private bandit17@bandit.labs.overthewire.org -p 220 
+   76  ssh bandit18@bandit.labs.overthewire.org -p 2220
+   77  ls
+   78  cd pwnd/
+   79  ls
+   80  cd bndt16/
+   81  ls
+   82  ssh -i sshkey17.private bandit17@bandit.labs.overthewire.org -p 220 
+   83  ssh bandit16@bandit.labs.overthewire.org -p 2220
+   84  ls 
+   85  cd pwnd/
+   86  code .
+   87  ls -la
+   88  ssh -i bandit17 bandit17@bandit.labs.overthewire.org -p 2220
+   89  ssh bandit18@bandit.labs.overthewire.org -p 2220
+   90  ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat ~/readme"
+   91  ssh bandit19@bandit.labs.overthewire.org -p 2220
+   92  ssh bandit19@bandit.labs.overthewire.org -p 2220
+   93  ssh bandit20@bandit.labs.overthewire.org -p 2220
+   94  pdftotext cvmiguel1.pdf cvmiguel.txt
+   95  ls
+   96  cd ruby/
+   97  ls
+   98  git clone git@github.com:reneclavijo/DesafioLATAM.git
+   99  cd DesafioLATAM/
+  100  ls
+  101  git clone git@github.com:reneclavijo/introduccion_ruby.git
+  102  git clone git@github.com:reneclavijo/oficinas-alquiler-rails.git
+  103  ls
+  104  git clone git@github.com:reneclavijo/turbo-pruebas.git
+  105  git clone git@github.com:xaviershay/enki.git
+  106  git clone git@github.com:enkidevs/curriculum.git
+  107  git clone git@github.com:neilmadhava/EJPTv2-Notes.git
+  108  git clone git@github.com:JasonTurley/eJPT.git
+  109  git clone git@github.com:grumpzsux/eJPT-Notes.git
+  110  git clone git@github.com:n0y4n/eJPT.git
+  111  mkdir otromas
+  112  cd otromas/
+  113  git clone git@github.com:n0y4n/eJPT.git
+  114  git clone git@github.com:brayandiazc/InforcapHouse.git
+  115  ls
+  116  cd ..
+  117  git clone git@github.com:migueltc13/TryHackMe.git
+  118  git clone git@github.com:rng70/TryHackMe-Roadmap.git
+  119  git clone git@github.com:EbookFoundation/free-programming-books.git
+  120  ls
+  121  cd otromas/
+  122  ls
+  123  git clone git@github.com:s4vitar/htbExplorer.git
+  124  git clone git@github.com:dhaneshsivasamy07/hackthebox.git
+  125  git clone git@github.com:madeindjs/api_on_rails.git
+  126  ssh bandit20@bandit.labs.overthewire.org -p 2220
+  127  clear
+  128  ssh bandit21@bandit.labs.overthewire.org -p 2220
+  129  code .
+  130  ls
+  131  egrep 1611752025618
+  132  grep -E "1611752025618" grep_1611752025618.txt 
+  133  grep -F "1611752025618" grep_1611752025618.txt 
+  134  grep -i "1611752025618" grep_1611752025618.txt 
+  135  grep -v "1611752025618" grep_1611752025618.txt 
+  136  grep -i "user" grep_1611752025618.txt 
+  137  grep "comment" grep_1611752025618.txt 
+  138  grep "password" grep_1611752025618.txt 
+  139  grep "Password" grep_1611752025618.txt 
+  140  grep "Pass" grep_1611752025618.txt 
+  141  grep "pass" grep_1611752025618.txt 
+  142  grep -i "Password" grep_1611752025618.txt 
+  143  clear
+  144  cd ..
+  145  ls
+  146  git clone git@github.com:Sivnerof/Black-Hat-Python.git
+  147  ls
+  148  cd Black-Hat-Python/
+  149  ls
+  150  cd Chapter02
+  151  ls
+  152  code .
+  153  source .venv/bin/activate
+  154  code .
+  155  reflex run
+  156  cd ..
+  157  clear
+  158  ls
+  159  cd blog/
+  160  ls
+  161  deactivate
+  162  ls
+  163  code .
+  164  cd ..
+  165  ls
+  166  cat notes.md 
+  167  source .venv/bin/activate
+  168  code .
+  169  reflex run
+  170  code .
+  171  source .venv/bin/activate
+  172  pdftotext Presentación\ -\ Almacenar\ información\ en\ una\ base\ de\ datos\ \(Parte\ I\).pdf pro.txt
+  173  code .
+  174  npm install --global yarn
+  175  sudo npm install --global yarn
+  176  npm --version
+  177  npm install -g npm@10.8.3
+  178  sudo npm install -g npm@10.8.3
+  179  clear
+  180  rails new mysite --database=postgresql -j esbuild --css bootstrap 
+  181  cd mysite/
+  182  ls
+  183  rails s
+  184  rails db:create
+  185  rails db:migrate
+  186  rails s
+  187  code .
+  188  rails c
+  189  clear
+  190  ruby --version
+  191  rails db:migrate
+  192  echo "TryHackMe"
+  193  echo TryHackMe
+  194  ifconfig -a
+  195  ip addr (ip a)
+  196  hostname -I | awk '}
+  197  hostname -I | awk {prin$1}
+  198  nmcli -p device show
+  199  rails g controller Render
+  200  rails db:migrate
+  201  rails s
+  202  ./bin/dev
+  203  ls
+  204  code .
+  205  ./bin/bundle add tailwindcss-rails
+  206  ./bin/rails tailwindcss:install
+  207  bundle update
+  208  echo "# mysite" >> README.md
+  209  git init
+  210  git add README.md
+  211  git commit -m "first commit"
+  212  git branch -M main
+  213  git remote add origin git@github.com:mrivaslezama/mysite.git
+  214  git push -u origin main
+  215  git status
+  216  git add .
+  217  git commit -m "first commit"
+  218  git push
+  219  git add .
+  220  git commit -m "adding render blueprint file"
+  221  git push
+  222  ./bin/bundle add tailwindcss-rails
+  223  ./bin/rails tailwindcss:install
+  224  npm install flowbite
+  225  bundle install
+  226  rails db:system:change --to=postgresql
+  227  ls
+  228  cd ruby/
+  229  ls
+  230  rails new peliculas
+  231  cd peliculas/
+  232  rails g models movie serie documentaryfilm
+  233  rails g model movie serie documentaryfilm
+  234  rails db:migrate
+  235  code .
+  236  rails g controller index create new
+  237  rails s
+  238  rails db:migrate
+  239  rails s
+  240  rails s
+  241  rails s
+  242  rails s
+  243  rails db:migrate
+  244  sudo systemctl start postgresql.service
+  245  rails db:migrate
+  246  bin/rails db:create
+  247  bin/rails db:migrate
+  248  rails s
+  249  rails db:migrate
+  250  rails s
+  251  clear
+  252  echo "# peliculas" >> README.md
+  253  git init
+  254  git add README.md
+  255  git commit -m "first commit"
+  256  git branch -M main
+  257  git remote add origin git@github.com:mrivaslezama/peliculas.git
+  258  git push -u origin main
+  259  git add .
+  260  git commit -m "first commit"
+  261  git push
+  262  ls
+  263  code .
+  264  code .
+  265  cd ..
+  266  clear
+  267  cd ruby/
+  268  ls
+  269  rails new media_project
+  270  cd media_project
+  271  code .
+  272  rails generate model Movie title:string description:text
+  273  rails generate model Serie title:string description:text
+  274  rails generate model serie title:string description:text
+  275  rails generate model DocumentaryFilm title:string description:text
+  276  rails generate controller Movies
+  277  rails generate controller Series
+  278  rails generate controller DocumentaryFilms
+  279  ls
+  280  rails s
+  281  rails db:create
+  282  rails db:migrate
+  283  rails s
+  284  bin/rails routes
+  285  exit
+  286  cd app/views/documentary_films/
+  287  ls
+  288  touch app/views/documentary_films/index.html.erb
+  289  touch index.html.erb
+  290  ls
+  291  cd ..
+  292  ls
+  293  cd movies/
+  294  touch index.html.erb
+  295  ls
+  296  cd ..
+  297  ls
+  298  cd series/
+  299  touch index.html.erb
+  300  touch new.html.erb
+  301  rails --version
+  302  rails --version
+  303  bundle install
+  304  rails s
+  305  rails db:create
+  306  rails db:migrate
+  307  rails s
+  308  rails routes
+  309  code .
+  310  rails s
+  311  rails db:migrate
+  312  rails s
+  313  code .
+  314  rails c
+  315  ls
+  316  rails c
+  317  rails c
+  318  clear
+  319  ls
+  320  git clone git@github.com:AngelTroncoso/howarts_rails.git
+  321  cd howarts_rails/
+  322  ls
+  323  code .
+  324  rails webpacker:compile 
+  325  rake assets:precompile
+  326  bundle install
+  327  rails s
+  328  rails db:create
+  329  rails db:migrate
+  330  rails s
+  331  rails s
+  332  git add .
+  333  git commit -m "upgrade"
+  334  git push
+  335  bundle install
+  336  rails s
+  337  git add .
+  338  git commit -m "environment"
+  339  git push
+  340  git add .
+  341  git commit -m "last try"
+  342  git push
+  343  git add .
+  344  git commit -m "last try 2"
+  345  git push
+  346  rails s
+  347  bundle install
+  348  rails s
+  349  rails db:migrate
+  350  bundel install
+  351  bundle update
+  352  rails s
+  353  bundle install
+  354  rails s
+  355  echo "# howarts_rails" >> README.md
+  356  git init
+  357  git add README.md
+  358  git commit -m "first commit"
+  359  git branch -M main
+  360  git remote add origin git@github.com:mrivaslezama/howarts_rails.git
+  361  git push -u origin main
+  362  git remote remove origin
+  363  git remote add origin git@github.com:mrivaslezama/howarts_rails.git
+  364  git commit -m "first commit"
+  365  git add .
+  366  git commit -m "first commit"
+  367  git remote add origin git@github.com:mrivaslezama/howarts_rails.git
+  368  git remote remove origin
+  369  git remote add origin git@github.com:mrivaslezama/howarts_rails.git
+  370  git push -u origin main
+  371  code .
+  372  git add .
+  373  git commit -m "adding render files"
+  374  git push
+  375  git add .
+  376  git commit -m "upto date"
+  377  raila s
+  378  rails s
+  379  git clone git@github.com:AngelTroncoso/howarts_rails.git
+  380  git clone git@github.com:AngelTroncoso/howarts_rails.git
+  381  bundle update
+  382  rails s
+  383  rake assets:precompile
+  384  rails s
+  385  rails s
+  386  code .
+  387  git remote remove origin
+  388  git add .
+  389  git commit -m "upto date"
+  390  git remote add origin git@github.com:mrivaslezama/howarts_rails.git
+  391  git push
+  392  git push --set-upstream origin main
+  393  git add .
+  394  git commit -m "upto date"
+  395  git push
+  396  echo "# howarts" >> README.md
+  397  git init
+  398  git add README.md
+  399  git commit -m "first commit"
+  400  git branch -M main
+  401  git remote add origin git@github.com:mrivaslezama/howarts.git
+  402  git push -u origin main
+  403  git remote remove origin
+  404  echo "# howarts" >> README.md
+  405  git init
+  406  git add README.md
+  407  git commit -m "first commit"
+  408  git branch -M main
+  409  git remote add origin git@github.com:mrivaslezama/howarts.git
+  410  git push -u origin main
+  411  git add .
+  412  git commit -m "adding"
+  413  git push
+  414  git clone git@github.com:robrascl/Howarts.git
+  415  bundle install
+  416  rails s
+  417  rake assets:precompile
+  418  bundle install
+  419  rake assets:precompile
+  420  rails s
+  421  rails db:create
+  422  rails db:create
+  423  git remote remove origin
+  424  ls
+  425  cd ruby/
+  426  ls
+  427  cd howarts_rails/
+  428  git log
+  429  git reset --hard [200~commit 22e76b6216112033b812f6a7c3e5fb028425e168
+  430  git reset --hard commit 22e76b6216112033b812f6a7c3e5fb028425e168
+  431  git reset --hard commit upgrade
+  432  git reset --hard upgrade
+  433  git log
+  434  git reset --hard 2dddebf1bfad75bf00034dd7fe90480c73956a9b
+  435  clear
+  436  code .
+  437  rails s
+  438  chmod a+x bin/render-build.sh
+  439  echo "# howarts2" >> README.md
+  440  git init
+  441  git add README.md
+  442  git commit -m "first commit"
+  443  git branch -M main
+  444  git remote add origin git@github.com:mrivaslezama/howarts2.git
+  445  git push -u origin main
+  446  git remote remove origin
+  447  git remote add origin git@github.com:mrivaslezama/howarts2.git
+  448  git add .
+  449  git commit -m "updating"
+  450  git push
+  451  git push --set-upstream origin main
+  452  git push
+  453  rails s
+  454  code .
+  455  rails s
+  456  git add .
+  457  git commit -m "g controllers adding new, create, index"
+  458  git push
+  459  rails g controller Post index edit new
+  460  rails s
+  461  code .
+  462  npm create astro@latest
+  463  git clone git@github.com:mrivaslezama/railsreview.git
+  464  npm i
+  465  ls
+  466  code .
+  467  rm -r railsreview-main
+  468  ls
+  469  source .venv/bin/activate
+  470  reflex run
+  471  rails s
+  472  code .
+  473  git config --list --show-origin
+  474  git status
+  475  git remote
+  476  git remote origin
+  477  git fetch origin
+  478  rails s
+  479  rails s
+  480  bin/dev
+  481  bin/dev
+  482  bin/dev
+  483  code .
+  484  git blame
+  485  git log --author
+  486  git log --author="commit"
+  487  pwd
+  488  history
+  489  clear
+  490  bundle add tailwindcss-rails
+  491  bundle add tailwindcss-rails
+  492  ./bin/rails tailwindcss:install
+  493  code .
+  494  rails new modelos_rails --database=postgresql --webpack
+  495  bundle exec rails webpacker:install
+  496  bundle add webpacker
+  497  ./bin/rails webpacker:install
+  498  yarn add tailwindcss
+  499  mkdir app/javascript/css
+  500  ./node_modules/.bin/tailwind init app/javascript/css/tailwind.js
+  501  bundle install
+  502  bundle install
+  503  rails generate devise:install
+  504  rails g devise:views
+  505  rails g devise User
+  506  rails db:migrate
+  507  rails s
+  508  history > pasos.txt

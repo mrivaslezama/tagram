@@ -1,0 +1,51 @@
+
+  467  rm -r railsreview-main
+  468  ls
+  469  source .venv/bin/activate
+  470  reflex run
+  471  rails s
+  472  code .
+  473  git config --list --show-origin
+  474  git status
+  475  git remote
+  476  git remote origin
+  477  git fetch origin
+  478  rails s
+  479  rails s
+  480  bin/dev
+  481  bin/dev
+  482  bin/dev
+  483  code .
+  484  git blame
+  485  git log --author
+  486  git log --author="commit"
+  487  pwd
+  488  history
+  489  clear
+  490  bundle add tailwindcss-rails
+  491  bundle add tailwindcss-rails
+  492  ./bin/rails tailwindcss:install
+  493  code .
+  494  rails new modelos_rails --database=postgresql --webpack
+  495  bundle exec rails webpacker:install
+  496  bundle add webpacker
+  497  ./bin/rails webpacker:install
+  498  yarn add tailwindcss
+  499  mkdir app/javascript/css
+  500  ./node_modules/.bin/tailwind init app/javascript/css/tailwind.js
+  501  npm install -g yarn
+  502  sudo npm install -g yarn
+  503  curl -fsSL https://esbuild.github.io/dl/v0.17.5 | sh
+  504  sudo mv esbuild /usr/bin/
+  505  sudo npm install -g sass
+  506  cd ..
+  507  ls
+  508  rails new tagram -j esbuild --css bootstrap
+  509  cd tagram/
+  510  rails s
+  511  code .
+  512  rails generate controller pages home
+  513  rails s
+  514  bin/dev
+  515  rails s
+  516  history > pasos2.txt
